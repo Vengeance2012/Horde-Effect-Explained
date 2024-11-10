@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Horde Effect Explained</title>
+    <style>
+        body {
+            background: linear-gradient(to right, red, black, black, black, black, black, black, black, black, black, black, black, red);
+            color: black;
+            text-align: center;
+            padding: 130px;
+            margin: 0;
+        }
+        .Title {
+            display: inline-block;
+            border-radius: 10px;
+            box-sizing: border-box;
+            color: white;
+            background: linear-gradient(to top, red, black, blue);
+            padding-left: 20px;
+            padding-right: 20px;
+            text-align: center;
+            font-size: xx-large;
+            margin-bottom: 40px;
+        }
+        .DesTitle {
+            color: yellow;
+            text-align: center;
+            font-size: large;
+            margin-top: 20px;
+        }
+        .InfoType {
+            color: white;
+            background: linear-gradient(to right, blue, black, black, black, black, blue);
+            font-size: larger;
+            box-sizing: border-box;
+            border-radius: 5px;
+            margin-top: 20px;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body class="body">
+    <div class="Title">Horde Effect Explained</div>
+    <div class="DesTitle">Origin</div>
+    <div class="InfoType">Originating from Horde made by arturd for fun and us guild members on horde and do not use it to much since rules clearly states you can make jokes but on moderate amount so pls do not joke very much that you can get banned</div>
+    <div class="DesTitle">Description</div>
+    <div class="InfoType">Horde Effect, is an mental joke made by arturd for fun which most guild member has espicially (HRD tuna) having the latest version and do not ban me because youll be getting creadit for helping me have information for people so uhm to continue horde effect is an erotic mental joke so guild members can make jokes erotically but on moderate amount since making it to erotic is bannable, timeout able, kickable or might be muteable reasons so for more information ill keep you guys update when i get enough time for now just DM me and tell me youre feedbacks and youre rating on this out of 10 thank you for reading, bye.</div>
+</body>
+</html>
